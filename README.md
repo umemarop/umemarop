@@ -1,13 +1,11 @@
-# 👋 Hi, I'm Sanghun Han (@umemarop)
+# 👋 Hi, I'm Sanghun Han
 
-Backend-focused developer passionate about building scalable web applications and deploying them to production.
+Backend Developer focused on building production-ready web applications.
 
-🚀 Built and deployed a full-stack AI-powered platform from development to production on AWS.
-
-* ☁️ AWS Cloud Practitioner Certified
-* 📈 PSM I (Professional Scrum Master I) Certified
-* 💻 Backend Development with Node.js & TypeScript
-* 🔧 Interested in System Design, Cloud Infrastructure, and DevOps
+- ☁️ AWS Cloud Practitioner
+- 📈 PSM I Certified
+- 💻 Node.js / TypeScript Backend Developer
+- 🇦🇺 Based in Australia
 
 ---
 
@@ -17,86 +15,35 @@ Backend-focused developer passionate about building scalable web applications an
 
 AI-powered job analysis and application tracking platform.
 
-#### Features
+**Tech Stack**
 
-* JWT Authentication & Refresh Token Rotation
-* Google OAuth Integration
-* Email Verification & Password Reset
-* Resume Upload & AI-Powered Profile Autofill
-* AI Job Analysis using Gemini API
-* Application Tracking System
-* Admin Dashboard
-* Session Management
-* AI Usage Tracking
+- Node.js
+- Express
+- TypeScript
+- Prisma
+- PostgreSQL
+- Next.js
+- Docker
+- AWS
+- GitHub Actions
 
-#### Production Infrastructure
-
-* AWS EC2
-* Docker Compose
-* Nginx Reverse Proxy
-* Cloudflare DNS
-* HTTPS (Let's Encrypt)
-* GitHub Actions CI/CD
-* PostgreSQL
-* Resend Email Service
+🌐 Live Demo: https://career-fit-ai.com
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-
-* Node.js
-* Express
-* TypeScript
-* Prisma
-* PostgreSQL
-* JWT
-* Jest
+Node.js · Express · TypeScript · Prisma · PostgreSQL
 
 ### Frontend
+Next.js · React · Tailwind CSS
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* shadcn/ui
-
-### Infrastructure & DevOps
-
-* AWS EC2
-* Docker
-* Docker Compose
-* Nginx
-* Cloudflare
-* GitHub Actions
-* Linux
-
-### AI & Integrations
-
-* Gemini API
-* Google OAuth
-* Resend Email
+### DevOps
+AWS · Docker · Nginx · Cloudflare · GitHub Actions
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Goal
 
-* System Design
-* Scalable Backend Architecture
-* AWS Services
-* Production Monitoring
-* Advanced DevOps Practices
-
----
-
-## 🎯 Goals
-
-* Build production-quality backend systems
-* Deepen cloud and infrastructure knowledge
-* Contribute to impactful software products
-* Start my software engineering career in Australia
-
----
-
-> I enjoy building products end-to-end — from API design and database modeling to deployment, automation, and production operations.
+Seeking a Junior Backend Developer opportunity in Australia.
